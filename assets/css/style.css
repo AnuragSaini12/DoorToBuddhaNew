@@ -31273,6 +31273,10 @@ figure img {
     background-color: var(--bs-soft-ash) !important
 }
 
+.text-justify-custom {
+  text-align: justify;
+}
+
 .bg-soft-gray {
     background-color: var(--bs-soft-gray) !important
 }
